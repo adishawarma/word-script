@@ -1,4 +1,4 @@
-#N-Letter-Word Extractor
+# N-Letter-Word Extractor
 
 This is a Python script that extracts the words with the specified number of letters from a JSON file that contains 370,000+ words.
 
